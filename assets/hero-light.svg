@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="FraTo, Full-Stack Developer">
+<style>@font-face{font-family:'GeistX';src:url(data:font/woff2;base64,d09GMgABAAAAAAPkABAAAAAAB1AAAAOKAAHMzQAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgUAcKgZgP1NUQVREAFwRCAqCeIJJATYCJAMcCxAABCAFg3AHIAwHG/0FCC4KY3BPU+KalSz6xdR3VOoF2WoRRGv9Wz27d+/oA7ACIAyzy48D9KSQNKBLbPan/dybSkPst5kpKjM7bpiEQiVDSCQSHopoxROdYrX77nLbr4S8WxMjc2TrmlSSJhJHGvkPCzBxTf3uzTPEdkPMotHOo3VUNMOBzZpeZFgUxRMqIpttNg63ZD9J7nFJyBhBJynQACQhKQmBmiGcqDNmxfPQv30T1aF/NyrUoP/AIm5CPyoUv0Ds34mawEQg5JKKUJEsQMUqRTRlivdKWVT9FB8AW4IF3jy+olrgrjPZbKnHk6fF9gQjJ4u5VCHjYWtmkvwMU39i5Ax/d7w3EWbK08a0Bo10X1bA/GliE21MgeDw11i1zBeHGz2h7J//e/IpUUZAap8+Rk9sIVQktEVGX+TTu8uYhL0nFuuk/khyLZEguqc1QCakGAAQICFDWxSBtqjmAM1VJGU9BeUtakEF+IuLXwVcGoGL094jikILhCbQHE04DjwDQF7SK0mCZpX+jZaNlvVSM43VaVXaZr1UixZq+cr73uJqu3r14VPtvryr79/X76+5Qup1Tzi1+9I3o90LX3yz6v77DyJWvH3hSrS1GJ7hB8C3qUqxf4+rTe2+qquul+or249iHZ8fvy4t+fjno68E5wSD1qMjD912cw6+V/5wdGjnfaWP+oqd8UBgNDEuPOs9dszwQfOOD0stVpyfWkYY1e7a3aLVxswJv9eItwe9emxWaqhng+yxC93vdrk3revIVQPri0/53bv5UffOMqZSXb9xNO/evY5kyemdzmW9M07n9JlszjcNwfYb1MdVfcE0v1VzSCtZfSoZAXABCfHJpx3rl21uMeG/Spb9Dr+8tms5AL/+uLcNcIp/04T0McoSCP5TMa2XCI1weTBUm9Ia4vUj0mkOTppBlNYTxbMwyz8CTYYhg4BNdfdBJvIqXgLMEmpesiTN3bNkhji35Dr7A0psAMtIZ4+gESMs3QljiqU/biw5hgHYsYFPS9smpKKkDCNoqWnpEfLKCgghBRWrMEIa0lJVsMyrHl1Yr7Ygq0iJrYphbe+3UlEpqYj6u5YoLWtpUFlTgCwrqHu86VmFopYmTNL/jlkFJV11ixANJTM1NZsxWT5xttIkhSeEUAhwDESZSneZ0DDuq8B44tNSOaQa9Id5tdStiMAW1VUsy2ppWNREAQraMKH3fVTcPH8Q) format('woff2');}@font-face{font-family:'GeistMonoX';src:url(data:font/woff2;base64,d09GMgABAAAAAAWoABAAAAAACiwAAAVNAAGzdQAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEgAgQwRCAqJEIdFATYCJAMmCyQABCAFhAAHIAwHGycIUVRxeim+OLCJDHvoQkRrDKm4tNRstPT6sR1uGKM2zoXpq/iX+B78//9+bZ/73/hHxDOT8OidNRGSeJwEk0kTUU9Er4Ro2aRBZf7/37QuSUnn8MalqqROzHgRQyYMqSg0ehh3uuoyrr/7u05U7PbQNDEJQpIkTRMZoWtVlSvf/4Wcjfsf4B320DV1UTrg7XDiQ/xfRNuaOilNBtQpUmVQAWZTGF48FXZ6Qwj4AMCIZBOBqEorEVNviINpHCAjACBSszqG0mbuo+vysBhFUs41CaUFYHfdBDDkNNcKnR7AQkRGLXMOz+4QfEGtDe3P/yPcqCWAJ22D3QK1TETCDBQygEaGa0xZRwATx1CWaILgFDICY0nDXuARSzMACIABDx344r+7RBJQbjajqFrNPHyShowYk1Wk2VACIGYUEOseoXty49qZPbt2rFu1YjnJvlVUygGSB4B6QDHQBugDALirE1sqNsWCBNRHYq0tfnVpyPddrl+cXea7opCbFJFo6uRJSJ04QQlo6jSx+xRFIXIGTLcbwgqGIf3UKUF88uRJgPO15LzVxDmVQTXZ6dNdNTz3GHei9BOQelUhODmUnNchqSimRv3IcgG/GJC6FyG45xlK/+itleiRIyeEqdOnCYL75hNI/Tqk92wo554StHE1lfwTQQqiB/zlSFbxRrk0YwHTIBIZJhCXogQORsjdn1EUMa7DDRIzoAfmNgWCQx8lgCcRv/BtizhKP3Vs5SKDiNFk6ElEIIvRShE44rQEQTzXD2+A2RDM0E8RRmTY9SlCMD4eTUmfO1z9+0ooYsGJE6gfpdYgWSRmgPTdC/KhBH5M0/Cjh+JyPBlWtAMHD2qHlDCMfvdBQt+0JJaI0dA1K7jW6s2S/hQ52sLiapp2Ly6rrLjCNSQWsvMlui7QaemRVJplJ/osY6WOFClVu5zVba6wzVz+E1vmmissGmea4kyPVci1wk1ERyubHY2eGBZmv1npsTh7u498uto0ExdlaVDVxi7M/X92PY7dMb3iZtE0e8gXXVnNdvmrKl1NLU+uSj1QXl0HvQjn3Mw2jmO25jyYWdPAxF8SyXd8PWY2ochyQmHNmPlYJF+yCulWaEfBrLuvyxH2bZ30sF7VwWxNLdlTwsV4b4er7fuUab5vnfSHp4YMhf2MNYJB+o47SiwvHrlyrm381T8ncjrkrlhaZi7bjnezGLPz61bgKxgaEZudC4KHajxWodnKc0qIOgeibEyR5ZKQrbWH6L0vRIiN71pluzU6Gm7drocYxNpF633LiN2fTrv3rDcykU7Tffe2uBqrRKezUnQ3goTfPvj7obfxkdJb15d63K7eXChbG/moaeXGIxi2hIN+/B/3X3V+5W345Pf4FAYTiqYn+3nOFu4K9Nr8Mb+Fmxvb+90sR8oHf36TJz/6scOR2dnAxn+jShQaAFj8dxHQc86n37cO5HT9hT3vHeAlcSoC8PqoFmiqSYvbHRBkAITfT2ILQlBD65qa2S2/aDarZFSTLj52Eos+MRI6bQUkESCPefAM2aCoBUbqIsAhFEAKPQdMtkvgafMDcBoDCChPIzmoPj0UAj8jyCbs9CqaoZLEraBoM41qgmKdMrQ2tA5lOIoxZfzGqNYitWI0BZPGjCg9ndZbR/l3IUxfpm4ozTpFVQ19WrWaoLJ51hvWYkRBTqsNxmj/OQ1kTQOz2HEFeeu0dM+uXwQvjMAxMnHpCetlDdG0a9GtTRuGIMEthOnMcnI008zD5yoDkQJS46uQuGzCYtsnQYqs471f1jpDslQjEgpyhuQZAZB58Ufifh7NDQA=) format('woff2');}</style>
+<defs>
+  <linearGradient id="name" x1="0" y1="0" x2="0" y2="1"><stop offset=".15" stop-color="#1f2328"/><stop offset="1" stop-color="#59636e"/></linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f1f3f6"/></linearGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#1f2328" stop-opacity=".45"/><stop offset="1" stop-color="#1f2328" stop-opacity="0"/></radialGradient>
+  <clipPath id="reveal"><rect x="0" y="0" width="640" height="140"/></clipPath>
+</defs>
+
+<g clip-path="url(#reveal)">
+  <text x="2" y="116" font-family="GeistX" font-size="92" letter-spacing="-3.2" fill="url(#name)">FraTo
+    <animateTransform attributeName="transform" type="translate" values="0 92;0 0" dur="1.1s" begin="0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".16 1 .3 1"/></text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".9s" begin=".55s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".9s" begin=".55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".16 1 .3 1"/>
+  <text x="6" y="166" font-family="GeistMonoX" font-size="22" fill="#59636e" textLength="264.0">Full-Stack Developer</text>
+  <rect x="278.0" y="148" width="11" height="22" fill="#59636e">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</g>
+
+<line x1="830" y1="48" x2="830" y2="184" stroke="#1f2328" stroke-opacity=".3" stroke-dasharray="2 4" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.3s" fill="freeze"/></line>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.41s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 -68;0 0" dur="1.2s" begin="0.41s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".16 1 .3 1"/>
+  <polygon points="742.0,184.0 830.0,228.0 830.0,235.0 742.0,191.0" fill="#e6eaef" stroke="#1f2328" stroke-opacity=".22" stroke-linejoin="round"/>
+  <polygon points="830.0,228.0 918.0,184.0 918.0,191.0 830.0,235.0" fill="#d9dfe6" stroke="#1f2328" stroke-opacity=".22" stroke-linejoin="round"/>
+  <polygon points="830.0,140.0 918.0,184.0 830.0,228.0 742.0,184.0" fill="url(#top)" stroke="#1f2328" stroke-opacity=".22" stroke-linejoin="round"/>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.33s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 0" dur="1.2s" begin="0.33s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".16 1 .3 1"/>
+  <polygon points="742.0,116.0 830.0,160.0 830.0,167.0 742.0,123.0" fill="#e6eaef" stroke="#1f2328" stroke-opacity=".22" stroke-linejoin="round"/>
+  <polygon points="830.0,160.0 918.0,116.0 918.0,123.0 830.0,167.0" fill="#d9dfe6" stroke="#1f2328" stroke-opacity=".22" stroke-linejoin="round"/>
+  <polygon points="830.0,72.0 918.0,116.0 830.0,160.0 742.0,116.0" fill="url(#top)" stroke="#1f2328" stroke-opacity=".22" stroke-linejoin="round"/>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.25s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 68;0 0" dur="1.2s" begin="0.25s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".16 1 .3 1"/>
+  <polygon points="742.0,48.0 830.0,92.0 830.0,99.0 742.0,55.0" fill="#e6eaef" stroke="#1f2328" stroke-opacity=".22" stroke-linejoin="round"/>
+  <polygon points="830.0,92.0 918.0,48.0 918.0,55.0 830.0,99.0" fill="#d9dfe6" stroke="#1f2328" stroke-opacity=".22" stroke-linejoin="round"/>
+  <polygon points="830.0,4.0 918.0,48.0 830.0,92.0 742.0,48.0" fill="url(#top)" stroke="#1f2328" stroke-opacity=".22" stroke-linejoin="round"/>
+</g>
+<ellipse cx="830" cy="48" rx="3" ry="1.5" fill="none" stroke="#1f2328" stroke-width="1.2" opacity="0"><animate attributeName="rx" values="3;3;34;34" keyTimes="0;0.06;0.26;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="ry" values="1.5;1.5;17;17" keyTimes="0;0.06;0.26;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;.7;0;0" keyTimes="0;0.059;0.06;0.26;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="830" cy="116" rx="3" ry="1.5" fill="none" stroke="#1f2328" stroke-width="1.2" opacity="0"><animate attributeName="rx" values="3;3;34;34" keyTimes="0;0.3;0.50;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="ry" values="1.5;1.5;17;17" keyTimes="0;0.3;0.50;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;.7;0;0" keyTimes="0;0.299;0.3;0.50;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="830" cy="184" rx="3" ry="1.5" fill="none" stroke="#1f2328" stroke-width="1.2" opacity="0"><animate attributeName="rx" values="3;3;34;34" keyTimes="0;0.64;0.84;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="ry" values="1.5;1.5;17;17" keyTimes="0;0.64;0.84;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;.7;0;0" keyTimes="0;0.639;0.64;0.84;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"/></ellipse>
+<g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;1;1;0;0" keyTimes="0;.06;.30;.40;.64;.74;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 48;0 48;0 116;0 116;0 184;0 184;0 184" keyTimes="0;.06;.30;.40;.64;.74;1" dur="4.8s" begin="1.9s" repeatCount="indefinite"
+    calcMode="spline" keySplines=".65 0 .35 1;.65 0 .35 1;.65 0 .35 1;.65 0 .35 1;.65 0 .35 1;.65 0 .35 1"/>
+  <circle cx="830" cy="0" r="14" fill="url(#halo)"/>
+  <circle cx="830" cy="0" r="3.2" fill="#1f2328"/>
+</g>
+</svg>
